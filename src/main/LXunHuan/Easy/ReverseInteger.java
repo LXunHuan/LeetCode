@@ -46,7 +46,7 @@ public class ReverseInteger {
 
     public static void main(String[] args) {
         System.out.println(reverse(-1234236469));
-         System.out.println(reverse1(1234236469));
+        System.out.println(reverse1(1234236469));
     }
 
 }
